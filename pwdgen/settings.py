@@ -26,7 +26,7 @@ SECRET_KEY = 'lafd_02=nj+m!rwywb%vcgqumwcbr3qfs0=1_zfxpevk*(a8)6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','']
+ALLOWED_HOSTS = ['127.0.0.1','rndm-pwd-generator.herokuapp.com']
 
 
 # Application definition
